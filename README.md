@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angleu Zua da Silva</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Backend developer from Angola</h3>
 
 - 🔭 I’m currently working on [Comprovativos](https://github.com/Angleu/comprovativos)
 
